@@ -1,7 +1,7 @@
-Time_Zone:           TZ=GMT0
-Mask_Angle(deg):     15.0
-Clock_offset(ppm):   -.36
-Interrupt_int:       512
+Time_Zone:           TZ=COT+5
+Mask_Angle(deg):     10.0
+Clock_offset(ppm):   -1.5
+Interrupt_int:       256
 cold_prn:            1
 ICP=1_CTL=0:         1
 nav_update(s):       1.0
@@ -10,7 +10,7 @@ stdio_v:             1
 stdio_t:             1
 kalman_file:         1
 debug_file:          1
-data_bit_file:       0
+data_bit_file:       1
 m_tropo:             1
 m_iono:              1
 align_t:             0
