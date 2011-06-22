@@ -1,0 +1,6 @@
+*.o
+*.log
+*.depend
+test.dat
+SoftOSGPS
+90-osgps.rules
