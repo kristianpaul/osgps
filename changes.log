@@ -1,0 +1,97 @@
+
+Revisions
+  1.17  Added data bit recording and write to file (this feature is not completely
+  debugged), corrected error in satpos_almanac, Thanks Tak! Also corrected an
+  error in navmess, thanks Goetz!  Also added an indication on page 1 which
+  interface (ISA or PCI) is being used and the almanac page number.
+
+  1.16
+  Addes #ifdefs to allow compilation by DJGPP.  Setup use of PCI interface
+  Modified almanac read logic to check when a new almanac is available
+
+  1.15
+  Added more integrity checking into the data bit synchronization in the pull-in
+  state.  Instead of just checking the change in phase and checking that it is
+  very close to a +-90 to -+90 transition it also stores the last 20 ms sign
+  values and they must all be the same and opposite of the transitioned ms sign
+  before declaring the edge of a data bit.  Modified parity check algorithm to
+  be more efficient. Also made constants for number of channels and register
+  address and data address.
+  1.14
+  Fixed error in nmea checksum routine.  Added another display page and
+  supporting data structure to show parity errors in navigation message
+  decoding.
+  1.13
+  Made mods to get ICP working better, trying to use just the last 0.1 second
+  of carrier phase data.  Phil Bender added NMEA serial port messages (needs
+  some more work, see files serport.cpp, nmea.cpp, fwinter.cpp). Additional
+  entries at the bottom of rcvr_par.dat are used to set up the NMEA messages.
+  Adapted program so it can compile under Borland (#ifdef BCPP) or Microsoft
+  Visual CPP (#ifdef VCPP)  Also split up the program into library components
+  to make it more modular (see GPS_ISR.CPP and NAVFIX.CPP)
+  1.12
+  Removed some of the ephemeris checks that were causing the rejection of
+  valid ephemeris messages and also caused it not to accept ephemeris
+  messages from a constellation simulator.  Fixed up the 1 second data bit
+  ambiguities to recover measurements that previously had been thrown out.
+  1.11
+  Cleaned up the display when a satellite is removed from consideration
+  Fixed an ephemeris management problem that caused occasional use of the
+  ephemeris from the wrong satellite
+  Modified the ephemeris mgmt to check IODE and IODC to decide when
+  to grab a new ephemeris + ephemeris integrity checks
+  Improved the almanac page redundancy check
+  Moved Pr, dPR, Tropo and Iono into the main channel data structure
+  Set up default iono parameters when ion_utc.dat not available
+  Added a debug output that provides raw measurements data and ephemeris
+  which provides more processing capability than pseudorange & delta pseudorange
+  Fully implemented the GPSRCVR.LOG output options
+  Added the option in RCVR_PAR.DAT to use CTL (carrier tracking loop) or
+  ICP (integrated carrier phase) data for velocity computations (ICP seems
+  to have bias problems)
+  1.10
+  Made the read of rcvr_par not so picky as long as the text field has no spaces
+  Fixed a problem in CMatrix with the Borland 5.02 compiler
+  Re-aligned column titles for pages 2-4
+  1.09
+  Corrected hot start problem
+  Hooked up almanac data type check
+  Started using Aberto's matrix libraries for DOP calculations
+  Minor changes in pream
+  Got rid of tmax in nav_fix
+  Added more mesaurement integrity checks in nav_fix
+  Added header and tdop to display
+  1.08
+  Corrected tracking loop bias problem (I hope!)
+  Corrected code loop doppler correction constant
+  1.07
+  Added check for bit sync in pull-in, must be set to transition to track
+  Extended pull-in to end of data bit to reduce transients when going into track
+  Added integrated carrier phase processing for velocity
+  Improved GPS time alignment mode (for any nav fix rate)
+  Corrected iono correction computations (again)
+  Corrected tropo correction sign
+  Reduced debug arrays to reduce code size
+  Added two new display pages, iono & tropo, and pseudorange and delta
+  pseudorange
+  Not used yet but getting set up to use Alberto Perez's matrix libraries
+  1.06
+  Added new format for Kalman.dat
+  corrected iono correction computations
+  Added more comments
+  1.05
+  Improved Code tracking loop
+  Added GPS time alignment mode
+  Added time zone input from rcvr_par.dat
+  Corrected errors in satpos_ephemeris
+  Corrected current.eph file format
+  1.04
+  Corrections in Gpsfuncs
+  Added new display page for nav message HOW and TOW
+  1.03
+  New preamble routine
+  Added Carrier phase aiding
+
+
+***********************************************************************/
+

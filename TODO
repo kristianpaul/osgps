@@ -1,0 +1,69 @@
+		      Open Source GPS To Do List
+		      --------------------------
+
+* General improvements
+
+** Get it to work using interrupts from the card (must have newer
+   version of the card with these interrupts available)
+
+** Allow data message to output every six seconds with full frame
+   information and keep user side working in sane manner.  Likely
+   involves keeping an old copy so you can see which part has changed
+   since last sub-frame.  (don't look at sub-frame number from status,
+   that's lame and might have timing problems.)
+
+** WAAS support
+    - Need previous problem solved at a minimum
+    - Step 1: Add WAAS PRN codes and search for them
+    - Step 2: Verify you can track a WAAS satellite
+    - Step 3: Data pull off changes since it's 5x data rate.
+    - Step 4: Fix user side for this data change
+    - Step 5: Implement DO-229c on user side.
+
+** Add a matrix math library (file) so we can do Kalman filters and
+   other higher level math stuff.
+
+
+* Linux Specific
+
+
+** Figure out an elegant solution to number of doppler search bins bug
+   when you don't have an almanac.  Dilemma: The number of search bins
+   is large if doing cold search in device driver and automatically
+   reduces when channel is assign.  However, userland cold search
+   assigns channels and messes up the whole idea. Obvious solutions
+   are to either not do cold search on user side at all (this might
+   break the DOS version) or allow user side to control number of
+   search bins.  I don't like the second one because it would mean
+   modifying the interface.
+
+** Write another user side program that uses the device driver to
+   allow for more testing of interface and show flexibility.  Perhaps,
+   re-use some other open source GPS libraries from other groups to
+   make these easier.
+
+** Add support for gpsd so we have a moving map via something like gps
+   drive.
+
+** Allow the user program to set the system time if it has authority
+   to do so.  (root permission?)
+
+** Integrate with other kernel time setting code to allow for
+   extremely accurate time control.  (this could be really useful for
+   certain applications.)
+
+
+* DOS Specific
+
+** Get PCI assembly working for DOS and Borland C 2.01 
+
+** Get the DOS version to use the RTC instead of timer interrupts
+   (mostly just for consistantly with Linux version.)
+
+
+(This next bit for the EMACS editor's benefit.)
+Local variables:
+mode: outline
+paragraph-separate: "[
+                        ]*$"
+end:

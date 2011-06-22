@@ -1,0 +1,870 @@
+**** Ephemeris for PRN- 1 ***********
+ID:                           1
+Health:                       0
+Week:                        406
+URA:                          4
+E Time of Applic(s):        2.66400000000e+005
+IODE:                        173
+C Time of Applic(s):        2.66400000000e+005
+IODC:                        173
+Tgd(s):                     -3.72529029846e-009
+Af0(s):                     1.32443848997e-004
+Af1(s/s):                   2.16004991671e-012
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               6.60799944308e-003
+Orbital Inclination(rad):   9.90200022125e-001
+inc rate (r/s)              2.95726603914e-010
+Rate of Right Ascen(R/s):   -8.13176729218e-009
+SQRT(A) (m^1/2):            5.15338603401e+003
+dn                          3.94659296287e-009
+Right Ascen at TOE(rad):    2.08973073390e+000
+Argument of Perigee(rad):   -1.77332820187e+000
+Mean Anom(rad):             -6.48363259275e-002
+Cuc(rad):                   2.90013849735e-006
+Cus(rad):                   4.09409403801e-006
+Crc(m):                     3.17562500000e+002
+Crs(m):                     5.80312500000e+001
+Cic(rad):                   -1.02445483208e-007
+Cis(rad):                   2.60770320892e-008
+
+**** Ephemeris for PRN- 2 ***********
+ID:                           2
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                        152
+C Time of Applic(s):        2.66400000000e+005
+IODC:                        152
+Tgd(s):                     -1.72294676304e-008
+Af0(s):                     1.12051609904e-004
+Af1(s/s):                   2.84217094304e-012
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               8.78980127163e-003
+Orbital Inclination(rad):   9.46631735286e-001
+inc rate (r/s)              -5.14307152422e-010
+Rate of Right Ascen(R/s):   -8.25570101171e-009
+SQRT(A) (m^1/2):            5.15358752632e+003
+dn                          5.02413799453e-009
+Right Ascen at TOE(rad):    -5.93769804439e-002
+Argument of Perigee(rad):   2.32039513953e+000
+Mean Anom(rad):             1.04418284618e+000
+Cuc(rad):                   -3.59490513802e-007
+Cus(rad):                   6.88992440701e-006
+Crc(m):                     2.38281250000e+002
+Crs(m):                     -1.62500000000e+000
+Cic(rad):                   1.69500708580e-007
+Cis(rad):                   -9.49949026108e-008
+
+**** Ephemeris for PRN- 3 ***********
+ID:                           3
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                         88
+C Time of Applic(s):        2.66400000000e+005
+IODC:                         88
+Tgd(s):                     -4.19095158577e-009
+Af0(s):                     6.81434758007e-005
+Af1(s/s):                   5.57065504836e-012
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               9.36031888705e-003
+Orbital Inclination(rad):   9.25510602431e-001
+inc rate (r/s)              1.41434462742e-010
+Rate of Right Ascen(R/s):   -8.64607442942e-009
+SQRT(A) (m^1/2):            5.15374261093e+003
+dn                          5.70880922339e-009
+Right Ascen at TOE(rad):    -1.19957019512e+000
+Argument of Perigee(rad):   7.36361667253e-001
+Mean Anom(rad):             4.34316056721e-001
+Cuc(rad):                   7.45058059692e-007
+Cus(rad):                   7.31274485588e-006
+Crc(m):                     2.16562500000e+002
+Crs(m):                     9.50000000000e+000
+Cic(rad):                   1.67638063431e-008
+Cis(rad):                   6.70552253723e-008
+
+**** Ephemeris for PRN- 4 ***********
+ID:                           4
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                        148
+C Time of Applic(s):        2.66400000000e+005
+IODC:                        148
+Tgd(s):                     -5.58793544769e-009
+Af0(s):                     1.02142803371e-005
+Af1(s/s):                   -5.68434188608e-013
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               7.66734709032e-003
+Orbital Inclination(rad):   9.46051426405e-001
+inc rate (r/s)              -4.48232950756e-010
+Rate of Right Ascen(R/s):   -8.14783973624e-009
+SQRT(A) (m^1/2):            5.15356119728e+003
+dn                          4.94520602245e-009
+Right Ascen at TOE(rad):    -4.01027436288e-002
+Argument of Perigee(rad):   2.63855311913e-001
+Mean Anom(rad):             -2.67091793313e+000
+Cuc(rad):                   1.60187482834e-007
+Cus(rad):                   7.26431608200e-006
+Crc(m):                     2.31750000000e+002
+Crs(m):                     4.25000000000e+000
+Cic(rad):                   -9.68575477600e-008
+Cis(rad):                   -1.13621354103e-007
+
+**** Ephemeris for PRN- 5 ***********
+ID:                           5
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                         22
+C Time of Applic(s):        2.66400000000e+005
+IODC:                         22
+Tgd(s):                     -4.19095158577e-009
+Af0(s):                     1.19386240840e-005
+Af1(s/s):                   5.36601874046e-011
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               7.88903504144e-003
+Orbital Inclination(rad):   9.39890439078e-001
+inc rate (r/s)              2.00008331150e-010
+Rate of Right Ascen(R/s):   -8.01569102856e-009
+SQRT(A) (m^1/2):            5.15378379631e+003
+dn                          4.85663086960e-009
+Right Ascen at TOE(rad):    -2.23505118324e+000
+Argument of Perigee(rad):   1.15574141085e+000
+Mean Anom(rad):             -3.07110465234e+000
+Cuc(rad):                   -4.08478081226e-006
+Cus(rad):                   1.05798244476e-005
+Crc(m):                     1.60250000000e+002
+Crs(m):                     -7.84062500000e+001
+Cic(rad):                   1.09896063805e-007
+Cis(rad):                   -1.45286321640e-007
+
+**** Ephemeris for PRN- 6 ***********
+ID:                           6
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                          9
+C Time of Applic(s):        2.66400000000e+005
+IODC:                          9
+Tgd(s):                     -4.65661287308e-009
+Af0(s):                     2.06172931939e-004
+Af1(s/s):                   1.10276232590e-011
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               5.86666446179e-003
+Orbital Inclination(rad):   9.33093108719e-001
+inc rate (r/s)              2.15366113720e-010
+Rate of Right Ascen(R/s):   -8.30927468607e-009
+SQRT(A) (m^1/2):            5.15376664543e+003
+dn                          5.39522473277e-009
+Right Ascen at TOE(rad):    -1.13802400706e+000
+Argument of Perigee(rad):   -1.72216249576e+000
+Mean Anom(rad):             -1.63034913097e+000
+Cuc(rad):                   1.01327896118e-006
+Cus(rad):                   7.34440982342e-006
+Crc(m):                     2.20875000000e+002
+Crs(m):                     1.99687500000e+001
+Cic(rad):                   8.38190317154e-008
+Cis(rad):                   1.73225998878e-007
+
+**** Ephemeris for PRN- 7 ***********
+ID:                           7
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                         92
+C Time of Applic(s):        2.66400000000e+005
+IODC:                         92
+Tgd(s):                     -2.32830643654e-009
+Af0(s):                     2.69423704594e-004
+Af1(s/s):                   -1.83035808732e-011
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               1.06264455244e-002
+Orbital Inclination(rad):   9.34664775740e-001
+inc rate (r/s)              2.67153985179e-010
+Rate of Right Ascen(R/s):   -8.19355558019e-009
+SQRT(A) (m^1/2):            5.15366153526e+003
+dn                          5.32022160859e-009
+Right Ascen at TOE(rad):    -1.16366153229e+000
+Argument of Perigee(rad):   -1.69401960336e+000
+Mean Anom(rad):             -1.81690442943e+000
+Cuc(rad):                   1.18464231491e-006
+Cus(rad):                   7.32019543648e-006
+Crc(m):                     2.20531250000e+002
+Crs(m):                     2.13750000000e+001
+Cic(rad):                   1.91852450371e-007
+Cis(rad):                   1.97440385819e-007
+
+**** Ephemeris for PRN- 8 ***********
+ID:                           8
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                        187
+C Time of Applic(s):        2.66400000000e+005
+IODC:                        187
+Tgd(s):                     -3.72529029846e-009
+Af0(s):                     -1.09944492579e-004
+Af1(s/s):                   -1.47792889038e-012
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               9.85419447534e-003
+Orbital Inclination(rad):   9.78630413073e-001
+inc rate (r/s)              7.96461747257e-011
+Rate of Right Ascen(R/s):   -8.08926552181e-009
+SQRT(A) (m^1/2):            5.15370607758e+003
+dn                          4.23089051929e-009
+Right Ascen at TOE(rad):    3.13447466914e+000
+Argument of Perigee(rad):   2.77159441781e+000
+Mean Anom(rad):             -1.56835829043e+000
+Cuc(rad):                   -4.62867319584e-006
+Cus(rad):                   5.37931919098e-006
+Crc(m):                     2.89156250000e+002
+Crs(m):                     -8.43750000000e+001
+Cic(rad):                   -6.14672899246e-008
+Cis(rad):                   -2.10478901863e-007
+
+**** Ephemeris for PRN- 9 ***********
+ID:                           9
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                        224
+C Time of Applic(s):        2.66400000000e+005
+IODC:                        224
+Tgd(s):                     -5.58793544769e-009
+Af0(s):                     7.33858905733e-005
+Af1(s/s):                   1.47792889038e-012
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               1.90759456018e-002
+Orbital Inclination(rad):   9.66410415513e-001
+inc rate (r/s)              6.96457581682e-011
+Rate of Right Ascen(R/s):   -7.98711840983e-009
+SQRT(A) (m^1/2):            5.15369864082e+003
+dn                          4.47447209401e-009
+Right Ascen at TOE(rad):    3.04988761496e+000
+Argument of Perigee(rad):   1.32832420903e+000
+Mean Anom(rad):             -1.91907759489e+000
+Cuc(rad):                   -4.39211726189e-006
+Cus(rad):                   3.47197055817e-006
+Crc(m):                     3.07343750000e+002
+Crs(m):                     -9.03437500000e+001
+Cic(rad):                   2.66358256340e-007
+Cis(rad):                   8.00937414169e-008
+
+**** Ephemeris for PRN-10 ***********
+ID:                          10
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                        222
+C Time of Applic(s):        2.66400000000e+005
+IODC:                        222
+Tgd(s):                     -2.32830643654e-009
+Af0(s):                     1.02927442640e-004
+Af1(s/s):                   5.68434188608e-013
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               7.53484782763e-003
+Orbital Inclination(rad):   9.68963077362e-001
+inc rate (r/s)              -2.05008539429e-010
+Rate of Right Ascen(R/s):   -7.81353975101e-009
+SQRT(A) (m^1/2):            5.15363986015e+003
+dn                          4.03445376548e-009
+Right Ascen at TOE(rad):    1.01757969700e+000
+Argument of Perigee(rad):   4.99256006988e-001
+Mean Anom(rad):             1.69866944312e+000
+Cuc(rad):                   4.01027500629e-006
+Cus(rad):                   9.25734639168e-006
+Crc(m):                     2.08531250000e+002
+Crs(m):                     7.69687500000e+001
+Cic(rad):                   -7.26431608200e-008
+Cis(rad):                   2.60770320892e-008
+
+**** Ephemeris for PRN-11 ***********
+ID:                          11
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                        160
+C Time of Applic(s):        2.66400000000e+005
+IODC:                        160
+Tgd(s):                     -1.16415321827e-008
+Af0(s):                     1.77472829819e-005
+Af1(s/s):                   9.09494701773e-013
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               6.74683810212e-003
+Orbital Inclination(rad):   8.93941103847e-001
+inc rate (r/s)              -3.99659504565e-010
+Rate of Right Ascen(R/s):   -8.83001066253e-009
+SQRT(A) (m^1/2):            5.15370692825e+003
+dn                          6.24454582468e-009
+Right Ascen at TOE(rad):    -2.22912085274e-001
+Argument of Perigee(rad):   4.91233133100e-001
+Mean Anom(rad):             -1.11117995185e+000
+Cuc(rad):                   4.65661287308e-008
+Cus(rad):                   6.06477260590e-006
+Crc(m):                     2.28031250000e+002
+Crs(m):                     1.78125000000e+000
+Cic(rad):                   2.04890966415e-007
+Cis(rad):                   -5.21540641785e-008
+
+**** Ephemeris for PRN-12 ***********
+ID:                          12
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                        200
+C Time of Applic(s):        2.66400000000e+005
+IODC:                        200
+Tgd(s):                     -1.16415321827e-008
+Af0(s):                     -4.61759045720e-005
+Af1(s/s):                   -7.95807864051e-013
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               3.57110495679e-003
+Orbital Inclination(rad):   9.61576638670e-001
+inc rate (r/s)              2.53224833545e-010
+Rate of Right Ascen(R/s):   -7.96247452617e-009
+SQRT(A) (m^1/2):            5.15362376404e+003
+dn                          4.46090010011e-009
+Right Ascen at TOE(rad):    -2.14999042302e+000
+Argument of Perigee(rad):   -1.20767234893e+000
+Mean Anom(rad):             -5.41920287989e-001
+Cuc(rad):                   -3.38628888130e-006
+Cus(rad):                   1.08685344458e-005
+Crc(m):                     1.69468750000e+002
+Crs(m):                     -6.59375000000e+001
+Cic(rad):                   -2.42143869400e-008
+Cis(rad):                   -4.28408384323e-008
+
+**** Ephemeris for PRN-13 ***********
+ID:                          13
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66384000000e+005
+IODE:                         33
+C Time of Applic(s):        2.66384000000e+005
+IODC:                         33
+Tgd(s):                     -1.11758708954e-008
+Af0(s):                     1.78940594196e-004
+Af1(s/s):                   3.29691829393e-012
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               3.44690051861e-003
+Orbital Inclination(rad):   9.94353189499e-001
+inc rate (r/s)              2.67511142913e-010
+Rate of Right Ascen(R/s):   -7.93247327649e-009
+SQRT(A) (m^1/2):            5.15359966087e+003
+dn                          3.76158525655e-009
+Right Ascen at TOE(rad):    2.07673289841e+000
+Argument of Perigee(rad):   1.33147116379e+000
+Mean Anom(rad):             1.49276958245e+000
+Cuc(rad):                   2.61515378952e-006
+Cus(rad):                   3.93763184547e-006
+Crc(m):                     3.18687500000e+002
+Crs(m):                     4.98750000000e+001
+Cic(rad):                   -7.45058059692e-008
+Cis(rad):                   -4.28408384323e-008
+
+**** Ephemeris for PRN-14 ***********
+ID:                          14
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66384000000e+005
+IODE:                         41
+C Time of Applic(s):        2.66384000000e+005
+IODC:                         41
+Tgd(s):                     -9.31322574616e-009
+Af0(s):                     2.35610641539e-005
+Af1(s/s):                   1.81898940355e-012
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               3.02916415967e-003
+Orbital Inclination(rad):   9.88310152868e-001
+inc rate (r/s)              2.74654297597e-010
+Rate of Right Ascen(R/s):   -8.10140888477e-009
+SQRT(A) (m^1/2):            5.15357936287e+003
+dn                          3.96909390012e-009
+Right Ascen at TOE(rad):    2.06149552844e+000
+Argument of Perigee(rad):   -2.15532945959e+000
+Mean Anom(rad):             1.00509016410e+000
+Cuc(rad):                   3.17022204399e-006
+Cus(rad):                   3.54461371899e-006
+Crc(m):                     3.21437500000e+002
+Crs(m):                     6.40625000000e+001
+Cic(rad):                   -3.16649675369e-008
+Cis(rad):                   -1.30385160446e-008
+
+**** Ephemeris for PRN-16 ***********
+ID:                          16
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                        194
+C Time of Applic(s):        2.66400000000e+005
+IODC:                        194
+Tgd(s):                     -9.77888703346e-009
+Af0(s):                     1.53433531523e-004
+Af1(s/s):                   2.84217094304e-012
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               4.12237131968e-003
+Orbital Inclination(rad):   9.63492885803e-001
+inc rate (r/s)              2.64653881039e-010
+Rate of Right Ascen(R/s):   -7.79711049524e-009
+SQRT(A) (m^1/2):            5.15367411804e+003
+dn                          4.39839749662e-009
+Right Ascen at TOE(rad):    -2.13430410544e+000
+Argument of Perigee(rad):   -6.92635331133e-001
+Mean Anom(rad):             -3.12032596770e+000
+Cuc(rad):                   -3.92086803913e-006
+Cus(rad):                   1.03339552879e-005
+Crc(m):                     1.81906250000e+002
+Crs(m):                     -7.94687500000e+001
+Cic(rad):                   -5.21540641785e-008
+Cis(rad):                   1.04308128357e-007
+
+**** Ephemeris for PRN-17 ***********
+ID:                          17
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                        238
+C Time of Applic(s):        2.66400000000e+005
+IODC:                        238
+Tgd(s):                     -1.02445483208e-008
+Af0(s):                     6.56028278172e-005
+Af1(s/s):                   -1.36424205266e-012
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               2.76779429987e-003
+Orbital Inclination(rad):   9.59391843664e-001
+inc rate (r/s)              1.40720147273e-010
+Rate of Right Ascen(R/s):   -8.09176562595e-009
+SQRT(A) (m^1/2):            5.15362177277e+003
+dn                          4.82912972406e-009
+Right Ascen at TOE(rad):    -1.09439622627e+000
+Argument of Perigee(rad):   -2.95743094512e+000
+Mean Anom(rad):             1.92168723008e+000
+Cuc(rad):                   1.02631747723e-006
+Cus(rad):                   7.59214162826e-006
+Crc(m):                     2.34281250000e+002
+Crs(m):                     1.84687500000e+001
+Cic(rad):                   -4.84287738800e-008
+Cis(rad):                   9.49949026108e-008
+
+**** Ephemeris for PRN-18 ***********
+ID:                          18
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                         80
+C Time of Applic(s):        2.66400000000e+005
+IODC:                         80
+Tgd(s):                     -1.07102096081e-008
+Af0(s):                     -2.48135533184e-004
+Af1(s/s):                   1.02318153950e-012
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               8.27895838302e-003
+Orbital Inclination(rad):   9.53058104730e-001
+inc rate (r/s)              -9.03609067516e-011
+Rate of Right Ascen(R/s):   -7.78282418587e-009
+SQRT(A) (m^1/2):            5.15360627556e+003
+dn                          4.19267464173e-009
+Right Ascen at TOE(rad):    1.03383331227e+000
+Argument of Perigee(rad):   -2.59986182081e+000
+Mean Anom(rad):             3.10561089314e+000
+Cuc(rad):                   4.68268990517e-006
+Cus(rad):                   9.82545316219e-006
+Crc(m):                     1.85718750000e+002
+Crs(m):                     9.06875000000e+001
+Cic(rad):                   -1.67638063431e-008
+Cis(rad):                   -1.04308128357e-007
+
+**** Ephemeris for PRN-19 ***********
+ID:                          19
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                        144
+C Time of Applic(s):        2.66400000000e+005
+IODC:                        144
+Tgd(s):                     -1.49011611938e-008
+Af0(s):                     4.03285957873e-005
+Af1(s/s):                   3.18323145621e-012
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               3.97091323976e-003
+Orbital Inclination(rad):   9.57286959096e-001
+inc rate (r/s)              5.17878714584e-011
+Rate of Right Ascen(R/s):   -8.07605068564e-009
+SQRT(A) (m^1/2):            5.15373783493e+003
+dn                          4.90877589879e-009
+Right Ascen at TOE(rad):    -1.03615470432e+000
+Argument of Perigee(rad):   -9.11312755720e-001
+Mean Anom(rad):             1.57307794065e+000
+Cuc(rad):                   4.19095158577e-007
+Cus(rad):                   6.96256756782e-006
+Crc(m):                     2.36812500000e+002
+Crs(m):                     8.34375000000e+000
+Cic(rad):                   4.84287738800e-008
+Cis(rad):                   -6.14672899246e-008
+
+**** Ephemeris for PRN-20 ***********
+ID:                          20
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                         66
+C Time of Applic(s):        2.66400000000e+005
+IODC:                         66
+Tgd(s):                     -6.51925802231e-009
+Af0(s):                     -2.53408215940e-005
+Af1(s/s):                   -4.54747350886e-013
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               3.37478122674e-003
+Orbital Inclination(rad):   9.52568569916e-001
+inc rate (r/s)              -1.55720772110e-010
+Rate of Right Ascen(R/s):   -7.83425489959e-009
+SQRT(A) (m^1/2):            5.15379727936e+003
+dn                          4.29696470011e-009
+Right Ascen at TOE(rad):    9.80543653910e-001
+Argument of Perigee(rad):   1.35565713636e+000
+Mean Anom(rad):             3.11771991519e+000
+Cuc(rad):                   3.53343784809e-006
+Cus(rad):                   9.24058258533e-006
+Crc(m):                     1.96562500000e+002
+Crs(m):                     6.58750000000e+001
+Cic(rad):                   -8.19563865662e-008
+Cis(rad):                   6.33299350738e-008
+
+**** Ephemeris for PRN-21 ***********
+ID:                          21
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                          9
+C Time of Applic(s):        2.66400000000e+005
+IODC:                          9
+Tgd(s):                     -1.21071934700e-008
+Af0(s):                     7.76527449489e-005
+Af1(s/s):                   3.41060513165e-013
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               1.26447954681e-002
+Orbital Inclination(rad):   9.39605641112e-001
+inc rate (r/s)              -3.17513225700e-010
+Rate of Right Ascen(R/s):   -8.10783772399e-009
+SQRT(A) (m^1/2):            5.15362445259e+003
+dn                          5.02020911186e-009
+Right Ascen at TOE(rad):    -2.22696318024e-002
+Argument of Perigee(rad):   -2.84272479517e+000
+Mean Anom(rad):             -1.84480519865e+000
+Cuc(rad):                   -1.08033418655e-007
+Cus(rad):                   7.50087201595e-006
+Crc(m):                     2.23625000000e+002
+Crs(m):                     1.09375000000e+000
+Cic(rad):                   5.58793544769e-009
+Cis(rad):                   -1.54599547386e-007
+
+**** Ephemeris for PRN-22 ***********
+ID:                          22
+Health:                       0
+Week:                        406
+URA:                          4
+E Time of Applic(s):        2.66400000000e+005
+IODE:                        224
+C Time of Applic(s):        2.66400000000e+005
+IODC:                        224
+Tgd(s):                     -1.81607902050e-008
+Af0(s):                     1.85328070074e-004
+Af1(s/s):                   1.59161572810e-012
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               4.71892883070e-003
+Orbital Inclination(rad):   9.50646926077e-001
+inc rate (r/s)              -1.14647632677e-010
+Rate of Right Ascen(R/s):   -7.99819029959e-009
+SQRT(A) (m^1/2):            5.15367962265e+003
+dn                          4.43589905871e-009
+Right Ascen at TOE(rad):    1.04110109953e+000
+Argument of Perigee(rad):   -1.72232654593e+000
+Mean Anom(rad):             1.68974004425e+000
+Cuc(rad):                   4.36604022980e-006
+Cus(rad):                   9.78633761406e-006
+Crc(m):                     1.83406250000e+002
+Crs(m):                     8.39375000000e+001
+Cic(rad):                   -7.45058059692e-009
+Cis(rad):                   -1.65775418282e-007
+
+**** Ephemeris for PRN-23 ***********
+ID:                          23
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                        103
+C Time of Applic(s):        2.66400000000e+005
+IODC:                        103
+Tgd(s):                     -2.00234353542e-008
+Af0(s):                     1.71631574631e-004
+Af1(s/s):                   2.84217094304e-012
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               5.03455975559e-003
+Orbital Inclination(rad):   9.70533834447e-001
+inc rate (r/s)              2.70011247052e-010
+Rate of Right Ascen(R/s):   -8.21641367518e-009
+SQRT(A) (m^1/2):            5.15364674759e+003
+dn                          4.33482341994e-009
+Right Ascen at TOE(rad):    2.04149421695e+000
+Argument of Perigee(rad):   2.58980599111e+000
+Mean Anom(rad):             7.21798437734e-001
+Cuc(rad):                   2.78465449810e-006
+Cus(rad):                   4.01213765144e-006
+Crc(m):                     3.05656250000e+002
+Crs(m):                     5.27500000000e+001
+Cic(rad):                   6.51925802231e-008
+Cis(rad):                   -5.02914190292e-008
+
+**** Ephemeris for PRN-24 ***********
+ID:                          24
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                         23
+C Time of Applic(s):        2.66400000000e+005
+IODC:                         23
+Tgd(s):                     -1.39698386192e-009
+Af0(s):                     5.32390549779e-006
+Af1(s/s):                   2.84217094304e-012
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               8.70901229791e-003
+Orbital Inclination(rad):   9.56261465226e-001
+inc rate (r/s)              -5.51808699333e-010
+Rate of Right Ascen(R/s):   -7.80818238499e-009
+SQRT(A) (m^1/2):            5.15366584778e+003
+dn                          4.58590530708e-009
+Right Ascen at TOE(rad):    -2.30242678532e-003
+Argument of Perigee(rad):   -8.07749234386e-001
+Mean Anom(rad):             2.94840227702e+000
+Cuc(rad):                   4.20957803726e-007
+Cus(rad):                   7.96653330326e-006
+Crc(m):                     2.25937500000e+002
+Crs(m):                     7.68750000000e+000
+Cic(rad):                   9.31322574616e-009
+Cis(rad):                   7.82310962677e-008
+
+**** Ephemeris for PRN-25 ***********
+ID:                          25
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                         90
+C Time of Applic(s):        2.66400000000e+005
+IODC:                         90
+Tgd(s):                     -7.45058059692e-009
+Af0(s):                     2.99096107483e-004
+Af1(s/s):                   2.30784280575e-011
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               1.23762561707e-002
+Orbital Inclination(rad):   9.59799039597e-001
+inc rate (r/s)              6.07168148133e-011
+Rate of Right Ascen(R/s):   -8.07140763510e-009
+SQRT(A) (m^1/2):            5.15528454018e+003
+dn                          4.58769109575e-009
+Right Ascen at TOE(rad):    2.99332149409e+000
+Argument of Perigee(rad):   -1.28742929087e+000
+Mean Anom(rad):             -2.93109737810e+000
+Cuc(rad):                   -3.85008752346e-006
+Cus(rad):                   3.34531068802e-006
+Crc(m):                     3.09281250000e+002
+Crs(m):                     -7.41562500000e+001
+Cic(rad):                   1.63912773132e-007
+Cis(rad):                   1.80676579475e-007
+
+**** Ephemeris for PRN-26 ***********
+ID:                          26
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                        202
+C Time of Applic(s):        2.66400000000e+005
+IODC:                        202
+Tgd(s):                     -6.51925802231e-009
+Af0(s):                     -2.34323088080e-004
+Af1(s/s):                   -2.11457518162e-011
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               1.83266906533e-002
+Orbital Inclination(rad):   9.92400546426e-001
+inc rate (r/s)              2.65368196508e-010
+Rate of Right Ascen(R/s):   -8.26284418063e-009
+SQRT(A) (m^1/2):            5.15364658546e+003
+dn                          3.97945147441e-009
+Right Ascen at TOE(rad):    2.07647197234e+000
+Argument of Perigee(rad):   8.67799660391e-001
+Mean Anom(rad):             -5.91265069249e-002
+Cuc(rad):                   2.75485217571e-006
+Cus(rad):                   3.73087823391e-006
+Crc(m):                     3.28531250000e+002
+Crs(m):                     4.88437500000e+001
+Cic(rad):                   6.70552253723e-008
+Cis(rad):                   2.98023223877e-007
+
+**** Ephemeris for PRN-27 ***********
+ID:                          27
+Health:                       0
+Week:                        406
+URA:                          4
+E Time of Applic(s):        2.66400000000e+005
+IODE:                        208
+C Time of Applic(s):        2.66400000000e+005
+IODC:                        208
+Tgd(s):                     -4.19095158577e-009
+Af0(s):                     1.14943366498e-004
+Af1(s/s):                   2.16004991671e-012
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               2.05060784938e-002
+Orbital Inclination(rad):   9.64379522415e-001
+inc rate (r/s)              9.64325882329e-011
+Rate of Right Ascen(R/s):   -7.92925885689e-009
+SQRT(A) (m^1/2):            5.15371518326e+003
+dn                          4.46625746612e-009
+Right Ascen at TOE(rad):    3.02659521324e+000
+Argument of Perigee(rad):   -1.80995970130e+000
+Mean Anom(rad):             -2.82416632906e+000
+Cuc(rad):                   -4.55230474472e-006
+Cus(rad):                   3.71225178242e-006
+Crc(m):                     3.05125000000e+002
+Crs(m):                     -8.39687500000e+001
+Cic(rad):                   4.09781932831e-007
+Cis(rad):                   -3.16649675369e-008
+
+**** Ephemeris for PRN-28 ***********
+ID:                          28
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                          3
+C Time of Applic(s):        2.66400000000e+005
+IODC:                          3
+Tgd(s):                     -1.07102096081e-008
+Af0(s):                     -4.10247594118e-007
+Af1(s/s):                   -7.95807864051e-013
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               1.26690864563e-002
+Orbital Inclination(rad):   9.61592457203e-001
+inc rate (r/s)              2.20366321999e-010
+Rate of Right Ascen(R/s):   -7.68424865123e-009
+SQRT(A) (m^1/2):            5.15370252991e+003
+dn                          4.36161025000e-009
+Right Ascen at TOE(rad):    -2.12519325645e+000
+Argument of Perigee(rad):   -2.17258738860e+000
+Mean Anom(rad):             2.31934735957e+000
+Cuc(rad):                   -3.29688191414e-006
+Cus(rad):                   9.87388193607e-006
+Crc(m):                     1.90843750000e+002
+Crs(m):                     -6.08437500000e+001
+Cic(rad):                   -3.16649675369e-008
+Cis(rad):                   -2.57045030594e-007
+
+**** Ephemeris for PRN-29 ***********
+ID:                          29
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                         57
+C Time of Applic(s):        2.66400000000e+005
+IODC:                         57
+Tgd(s):                     -6.98491930962e-009
+Af0(s):                     3.43890860677e-006
+Af1(s/s):                   4.54747350886e-013
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               1.01109712850e-002
+Orbital Inclination(rad):   9.88816183546e-001
+inc rate (r/s)              1.47863301957e-010
+Rate of Right Ascen(R/s):   -7.87389940809e-009
+SQRT(A) (m^1/2):            5.15364846611e+003
+dn                          3.90266256156e-009
+Right Ascen at TOE(rad):    2.04069808084e+000
+Argument of Perigee(rad):   -6.86912408773e-001
+Mean Anom(rad):             1.70434518052e+000
+Cuc(rad):                   2.97650694847e-006
+Cus(rad):                   3.25776636601e-006
+Crc(m):                     3.30437500000e+002
+Crs(m):                     5.79687500000e+001
+Cic(rad):                   1.60187482834e-007
+Cis(rad):                   1.35973095894e-007
+
+**** Ephemeris for PRN-30 ***********
+ID:                          30
+Health:                       0
+Week:                        406
+URA:                          4
+E Time of Applic(s):        2.66400000000e+005
+IODE:                         70
+C Time of Applic(s):        2.66400000000e+005
+IODC:                         70
+Tgd(s):                     -7.91624188423e-009
+Af0(s):                     3.58386896551e-005
+Af1(s/s):                   1.02318153950e-012
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               9.73705796059e-003
+Orbital Inclination(rad):   9.46212609256e-001
+inc rate (r/s)              1.78936024832e-010
+Rate of Right Ascen(R/s):   -7.86711341114e-009
+SQRT(A) (m^1/2):            5.15377350235e+003
+dn                          4.70912472537e-009
+Right Ascen at TOE(rad):    -2.18593249158e+000
+Argument of Perigee(rad):   1.33035866726e+000
+Mean Anom(rad):             2.74503040755e+000
+Cuc(rad):                   -4.04752790928e-006
+Cus(rad):                   1.05854123831e-005
+Crc(m):                     1.63406250000e+002
+Crs(m):                     -7.75312500000e+001
+Cic(rad):                   6.51925802231e-008
+Cis(rad):                   -1.43423676491e-007
+
+**** Ephemeris for PRN-31 ***********
+ID:                          31
+Health:                       0
+Week:                        406
+URA:                          2
+E Time of Applic(s):        2.66400000000e+005
+IODE:                        220
+C Time of Applic(s):        2.66400000000e+005
+IODC:                        220
+Tgd(s):                     -1.30385160446e-008
+Af0(s):                     1.84820964932e-005
+Af1(s/s):                   -6.82121026330e-013
+Af2(s/s/s):                 0.00000000000e+000
+Eccentricity:               6.26496027689e-003
+Orbital Inclination(rad):   9.62947003774e-001
+inc rate (r/s)              -9.64325882329e-012
+Rate of Right Ascen(R/s):   -8.39070664947e-009
+SQRT(A) (m^1/2):            5.15373549461e+003
+dn                          4.73162566263e-009
+Right Ascen at TOE(rad):    3.08354372920e+000
+Argument of Perigee(rad):   -1.32827572792e+000
+Mean Anom(rad):             -1.13112299531e+000
+Cuc(rad):                   -4.46848571300e-006
+Cus(rad):                   4.43495810032e-006
+Crc(m):                     3.00593750000e+002
+Crs(m):                     -8.69375000000e+001
+Cic(rad):                   -1.41561031342e-007
+Cis(rad):                   5.40167093277e-008
+

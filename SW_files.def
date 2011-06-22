@@ -1,0 +1,12 @@
+almanac		S_current.alm
+ephemeris	S_current.eph
+receiver	S_rcvr_par.dat
+location	S_curloc.dat
+ion_utc		S_ion_utc.dat
+output		S_gpsrcvr.log
+kalman		S_gpskalm.log
+data_bits	S_nav_mess.log
+rinex_par       S_rinex_par.dat
+rinex_obs	S_rinex_obs.log
+rinex_nav	S_rinex_nav.log
+debug		S_debug.log
