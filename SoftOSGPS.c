@@ -230,8 +230,8 @@ main (int argc UNUSED, char *argv[] UNUSED)
   double tic_period = 0.1;     /* Seconds */
 
   /* for the SiGe these are the parameters */
-  double samp_rate=16.3676e6; /*  sampling rate */
-  double carrier_IF=4.1304e6; /*  carrier Intermediate Frequency */
+  double samp_rate=2.0479e6; /*  sampling rate */
+  double carrier_IF=2.556e6; /*  carrier Intermediate Frequency */
 
   /* number of samples per interrupt */
   long nsamp;
